@@ -31,6 +31,9 @@ A simple SaaS-style timesheet management application built with Next.js, TypeScr
    npm run build
    npm start
    ```
+6. **Login**
+   Email: j@example.com
+   password: pass123
 
 ---
 
